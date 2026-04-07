@@ -1,0 +1,40 @@
+\documentclass[man, biblatex]{apa7} % Estilo manuscrito
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+\title{Diferencia entre digitalización y transformación digital}
+\shorttitle{Ciencia de Datos}
+\author{Danny Basantes}
+\affiliation{Universidad Nacional de Chimborazo}
+\course{Cultura Digital y Sociedad}
+\professor{Ronny Pomboza}
+\due{7 de abril de 2026}
+
+% \addbibresource{bibliografia.bib}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+    \vfill
+    \textbf{Palabras clave:} LaTeX, APA 7, Ensayo, Plantilla.
+\end{abstract}
+
+\section{Introducción}
+
+
+\section{Desarrollo}
+
+
+\subsection{Primer Argumento}
+
+
+\section{Conclusión}
+
+
+% Generar referencias
+% \printbibliography
+
+\end{document}

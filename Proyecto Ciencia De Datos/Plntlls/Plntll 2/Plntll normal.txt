@@ -1,0 +1,32 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[margin=2.5cm]{geometry} 
+\usepackage{setspace} \onehalfspacing 
+\usepackage{titlesec}
+
+% Datos del documento
+\title{\huge \textbf{Diferencia entre digitalización y transformación digital}}
+\author{ Danny Basantes \\ \small \textit{Universidad Nacional de Chimborazo}}
+\date{7 de abril de 2026}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty} 
+\newpage
+
+\section*{Introducción}
+
+
+\section*{Cuerpo del Ensayo}
+
+
+\section*{Conclusión}
+
+\begin{thebibliography}{9}
+\bibitem{latex2026} 
+Lamport, L. (2026). \textit{Document Preparation System}.
+\end{thebibliography}
+
+\end{document}
