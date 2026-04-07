@@ -3,5 +3,5 @@
 Arts = Articulos,
 Plntlls = Plantillas,
 Art = Articulo,
-Plnttll = Plantilla,
-=
+Plnttll = Plantilla.
+
